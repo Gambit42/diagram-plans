@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sujHo_DlBmJosKQxzyWs-2" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Search manhuas&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Save manhuas on list like goodreads&lt;/li&gt;&lt;li&gt;List popular on homepage if possible(?)&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="sujHo_DlBmJosKQxzyWs-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Manhua/Manga&amp;nbsp;&lt;br&gt;API&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
